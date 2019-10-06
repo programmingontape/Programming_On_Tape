@@ -9,7 +9,9 @@ For more information, visit www.programmingontape.com
 
 Follow us on 
 
-Twitter:
+Twitter: https://twitter.com/ProgrammingOn
+
+
 Facebook:
 LinkedIn:
 You can also support us on petrion :

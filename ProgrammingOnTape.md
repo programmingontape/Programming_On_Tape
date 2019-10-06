@@ -13,6 +13,8 @@ Twitter: https://twitter.com/ProgrammingOn
 
 Facebook: https://www.facebook.com/programmingontape
 
-LinkedIn:
-You can also support us on petrion :
+
+You can also support us on
+
+Patreon : https://www.patreon.com/programmingontape
  
